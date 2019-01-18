@@ -1,0 +1,1 @@
+REG ADD "HKCU\Software\Microsoft\Command processor" /v Autorun /t reg_sz /d C:\Users\%USERNAME%\scripts\aliases_loader\cmd_autorun.cmd
